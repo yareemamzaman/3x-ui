@@ -44,3 +44,9 @@ docker-compose.override.yml
 
 # Ignore .env (Environment Variables) file
 .env
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+!.env.example
