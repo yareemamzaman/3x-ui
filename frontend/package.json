@@ -40,7 +40,7 @@
     "i18next": "^26.3.6",
     "otpauth": "^9.5.1",
     "persian-calendar-suite": "^1.5.5",
-    "react": "^19.2.7",
+    "react": "^19.2.8",
     "react-dom": "^19.2.7",
     "react-hook-form": "^7.81.0",
     "react-i18next": "^17.0.9",
